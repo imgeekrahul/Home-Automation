@@ -8,5 +8,6 @@ Some useful tools are as follows:
 > Some home based machanism(Bulb, holder, wire, etc.)
 
 I should also post the SS(ScreenShots) that how you can connect and make your live Home Automation project.
+See the sequential image and make concern on the cursor.
 
 Feel free to ask any question at any time. I'll absolutely respond to you on the same day at any time at any cost.
